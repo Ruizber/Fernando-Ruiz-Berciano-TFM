@@ -1,7 +1,0 @@
-english-get
-german-erhalten
-arabic-yahsul
-chinese-Dédào
-spanish-conseguir
-greek-paírno
-russian-poluchat
